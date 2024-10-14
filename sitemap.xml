@@ -65,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://janker-sys.github.io/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://janker-sys.github.io/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -83,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://janker-sys.github.io/personal/love/index.html</loc>
+    <loc>https://janker-sys.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -93,6 +84,15 @@
   
   <url>
     <loc>https://janker-sys.github.io/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://janker-sys.github.io/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
