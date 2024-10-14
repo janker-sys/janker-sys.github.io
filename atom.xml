@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>向晚凝🥝</title>
   
   
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
@@ -8,6 +8,11 @@
   <link href="https://www.fomal.cc/"/>
   <updated>2022-10-23T14:00:00.000Z</updated>
   <id>https://www.fomal.cc/</id>
+  
+  <author>
+    <name>向晚凝🥝</name>
+    
+  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
