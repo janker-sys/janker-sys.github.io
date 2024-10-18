@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://janker-sys.github.io/posts/d87f7e0c.html</loc>
-    
-    <lastmod>2024-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://janker-sys.github.io/personal/about/index.html</loc>
     
     <lastmod>2024-10-17</lastmod>
@@ -110,7 +101,16 @@
   </url>
   
   <url>
-    <loc>https://janker-sys.github.io/social/fcircle/index.html</loc>
+    <loc>https://janker-sys.github.io/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://janker-sys.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -128,16 +128,7 @@
   </url>
   
   <url>
-    <loc>https://janker-sys.github.io/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://janker-sys.github.io/site/time/index.html</loc>
+    <loc>https://janker-sys.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -171,13 +162,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://janker-sys.github.io/tags/test/</loc>
-    <lastmod>2024-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://janker-sys.github.io/tags/Markdown/</loc>

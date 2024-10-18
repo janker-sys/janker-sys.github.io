@@ -6,7 +6,7 @@
   <link href="https://janker-sys.github.io/atom.xml" rel="self"/>
   
   <link href="https://janker-sys.github.io/"/>
-  <updated>2024-10-18T04:44:12.103Z</updated>
+  <updated>2022-10-23T14:00:00.000Z</updated>
   <id>https://janker-sys.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://janker-sys.github.io/posts/d87f7e0c.html"/>
-    <id>https://janker-sys.github.io/posts/d87f7e0c.html</id>
-    <published>2024-10-18T03:28:34.000Z</published>
-    <updated>2024-10-18T04:44:12.103Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/img/9b633bb72c1db6c7e5045c15b014a0de.jpg" alt=""></p><p><img src="/img/72cb20c331327afce22daab80f21d1f9-1729226639883-2.jpg" alt="72cb20c331327afce22daab80f21d1f9"></p>]]></content>
-    
-    
-    <summary type="html">test</summary>
-    
-    
-    
-    <category term="演示" scheme="https://janker-sys.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
-    
-    
-    <category term="test" scheme="https://janker-sys.github.io/tags/test/"/>
-    
-  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
